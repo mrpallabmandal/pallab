@@ -62,13 +62,12 @@ body {
 .title h1 {
   font-weight: bolder;
   font-size: 1.8rem;
-  color: #ebdf0c;
+  color: #fff103;
 }
 
 .title h3 {
   font-weight: 400;
   font-size: 1rem;
-  color: #ebdf0c;
 }
 
 .title p {
